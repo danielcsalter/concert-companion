@@ -1,2 +1,15 @@
-# concert-companion
-Full stack project that allows a user to find their favourite artists and when their concerts are.
+A full-stack web application that helps users discover concerts, follow favourite artists, and save upcoming events.
+
+Features
+- Search artists
+- Browse concerts
+- Save favourites
+- Spotify integration
+- Ticketmaster integration
+
+Tech Stack
+- React
+- TypeScript
+- Express
+- PostgreSQL
+- Prisma
